@@ -32,7 +32,7 @@
 使用方法:
 ---
 
-### 安装依赖
+## 安装依赖
 
 ```shell
 pip install -r requirements.txt
